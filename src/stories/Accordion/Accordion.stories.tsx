@@ -60,7 +60,7 @@ export function Open() {
           Text...Dummy Text...Dummy Text...Dummy Text...Dummy Text...Dummy
           Text...Dummy Text...Dummy Text...Dummy Text...Dummy Text...Dummy
           Text...Dummy Text...Dummy Text...Dummy Text...Dummy Text...Dummy
-          Text...Dummy Text...
+          Text...Dummy Text
         </p>
       ),
     },
